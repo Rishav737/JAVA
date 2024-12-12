@@ -1,0 +1,48 @@
+Hello world
+
+public class First {
+    public static void main(String[] args) {
+        System.out.print("Hello world");
+
+    }
+
+}
+
+five friend name
+
+public class First {
+    public static void main(String[] args) {
+        System.out.println("Shivam");
+        System.out.println("Jaipal");
+        System.out.println("aman");
+        System.out.println("adarsh");
+        System.out.println("sonu");
+    }
+
+}
+
+five fav food name
+
+public class First {
+    public static void main(String[] args) {
+        System.out.println("sandwich");
+        System.out.println("noodels");
+        System.out.println("maggi");
+        System.out.println("pizza");
+        System.out.println("pasta");
+    }
+
+}
+
+five city name
+
+public class First {
+    public static void main(String[] args) {
+        System.out.println("churu");
+        System.out.println("ajmer");
+        System.out.println("alwar");
+        System.out.println("sikar");
+        System.out.println("jaipur");
+    }
+
+}
